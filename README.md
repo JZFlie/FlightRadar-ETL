@@ -14,6 +14,9 @@ Representation:
 Lastly, for the visualization of data, I am considering using the Seaborn Python library to represent data such as adoption rates by region over specified intervals to identify trends.
 
 https://github.com/aschleg/petpy
+
 https://spark.apache.org/docs/latest/api/python/reference/index.html
+
 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+
 https://www.petfinder.com/developers/v2/docs/#api-calls
